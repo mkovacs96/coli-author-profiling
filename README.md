@@ -5,8 +5,8 @@ To-do list:
 
 - tweak merged tweets model
 - try single tweets (from csv database)
+- collect reddit data
 - test on reddit data
-- collect reddit data first
 
 FILES:
 
