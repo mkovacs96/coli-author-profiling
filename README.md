@@ -15,4 +15,4 @@ FILES:
 - merged_tweets_cnn.ipynb contains the merged tweets model
 - single_tweets_cnn.ipynb contains code for single tweets. Abandoned
 - testing_model_corpus.ipynb contains random code to test model
-- csv_dataset.ipynb code to convert xml to csv and train model
+- csv_dataset.ipynb code to convert xml to csv. Work in progress
