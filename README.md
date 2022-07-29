@@ -7,6 +7,7 @@ To-do list:
 - try single tweets (from csv database)
 - collect reddit data
 - test on reddit data
+- write report
 
 FILES:
 
