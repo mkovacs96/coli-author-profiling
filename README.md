@@ -4,7 +4,8 @@ Computational Linguistics project - Author gender identification
 To-do list:
 
 - tweak merged tweets model
-- new ways to tokenize text (---> EMOJIS? TWITTER ABBREVIATIONS?)
+- new ways to tokenize text (---> EMOJIS? ABBREVIATIONS?)
+- different embeddings?
 - try single tweets (from csv database)
 - collect reddit data
 - test on reddit data
